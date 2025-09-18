@@ -20,7 +20,7 @@ I’m Juan Suriano, a passionate software developer currently finishing my Techn
 - **Backend:** .NET Framework (classic MVC), .NET Core (learning), C#
 - **Frontend:** HTML, CSS, Bootstrap, basic JavaScript
 - **Databases:** SQL Server, Stored Procedures
-- **Tools:** Visual Studio, VS Code, Git
+- **Tools:** Visual Studio Community, VS Code, Git
 
 ### 👯 Looking to Collaborate On
 - Web applications and SaaS projects.
