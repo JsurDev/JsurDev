@@ -33,6 +33,8 @@ I’m Juan Suriano, a passionate software developer currently finishing my Techn
 
 ### 📫 How to Reach Me
 - [LinkedIn](www.linkedin.com/in/juan-suriano-678946384)  
+www.linkedin.com/in/juan-suriano-678946384
+
 
 ### ⚡ Fun Fact
 I enjoy learning new technologies and experimenting with software projects to solve real-world problems.
