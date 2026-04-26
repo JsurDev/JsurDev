@@ -22,15 +22,6 @@ I’m Juan S, a passionate software developer currently finishing my Technical D
 - **Databases:** SQL Server, Stored Procedures
 - **Tools:** Visual Studio Community, VS Code, Git
 
-### 👯 Looking to Collaborate On
-- Web applications and SaaS projects.
-- Open-source projects involving .NET Core and full-stack development.
-
-### 💬 Ask Me About
-- Building secure and scalable web applications
-- Database design and optimization
-- Transitioning from classic ASP.NET MVC to .NET Core
-
 ### 📫 How to Reach Me
 - www.linkedin.com/in/juan-suriano-dev
 
