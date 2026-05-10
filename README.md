@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Juan S, a passionate software developer currently finishing my Technical Degree in Systems Engineering. I love building web applications and constantly improving my skills in .NET technologies.
+I’m Juan S, a passionate software developer currently finishing my Technical Degree in Systems Engineering. I love building web applications and constantly improving my skills in Javascript and .NET technologies.
 
 ### 🌐 Languages
 - **English** – Advanced / Conversational
